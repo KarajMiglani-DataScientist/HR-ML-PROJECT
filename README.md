@@ -1,5 +1,5 @@
 # HR-ML-PROJECT
-##OVERVIEW
+OVERVIEW
 Hiring tems often face the challenge of candidates declining offers at the last moment. This causes delays,lost productivity, and increased hiring effort
 This project uses Machine Learning to predict the probability of a candidate joining vs. not joining based on HR profile data.
 
@@ -11,7 +11,7 @@ This project uses Machine Learning to predict the probability of a candidate joi
 
 *Improve hiring decisions with data-driven insights
 
-Problem Statement
+#Problem Statement
 
 Given candidate attributes such as experience, location, notice period, CTC expectations, etc., predict whether a candidate will join after receiving an offer.
 
